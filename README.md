@@ -32,7 +32,7 @@ peripherals: Intel X520 10Gbps NIC, Intel XL710 40Gbps NIC, Intel
 P4500 NVMe, and Samsung PM1725a NVMe. The subdirectories contain some
 variations of pcap files corresponding to different numbers of packets
 to be sent and different numbers of blocks to be written or read
-to/from the NVMe SSDs.It is described in the paper, Section 6.1.2.
+to/from the NVMe SSDs. It is described in the paper, Section 6.1.2.
 
 
 #### simple-nic/
